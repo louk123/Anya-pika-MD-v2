@@ -12,7 +12,7 @@ global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
 global.packname = "الـبـاسـل الـمـلـڪـي🦇⃢⃝⃟😻" // sticker watermark packname //
 global.author = "@lo9mane lmalaki" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
+actiontitle = '࿙⚜lo9mane lmalaki⚜࿚' // text who displays on the top of welcome and left message //
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
